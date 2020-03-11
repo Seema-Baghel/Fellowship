@@ -48,27 +48,27 @@ public class InputUtility {
 		return sc.next().charAt(0);
 	}
 	///////////////////////////////////////////////////////////////
-	public static int genericintVal()
+	public static Integer genericintVal()
 	{
 		return sc.nextInt();
 	}
-	public static long genericlongVal()
+	public static Long genericlongVal()
 	{
 		return sc.nextLong();
 	}
-	public static double genericdoubleVal()
+	public static Double genericdoubleVal()
 	{
 		return sc.nextDouble();
 	}
-	public static float genericfloatVal()
+	public static Float genericfloatVal()
 	{
 		return sc.nextFloat();
 	}
-	public static byte genericbyteVal()
+	public static Byte genericbyteVal()
 	{
 		return sc.nextByte();
 	}
-	public static boolean genericbooleanVal()
+	public static Boolean genericbooleanVal()
 	{
 		return sc.nextBoolean();
 	}
